@@ -1,0 +1,6 @@
+[package]
+name = "writing-python-modules-with-rust"
+version = "0.1.0"
+authors = ["Giovanni Martins <giovannimartins2000@gmail.com>"]
+
+[dependencies]
