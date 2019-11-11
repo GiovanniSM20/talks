@@ -1,3 +1,1 @@
-Talks
-
-In this repository I will be putting my talks
+In this repository I'll be putting my talks
